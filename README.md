@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+Hospital Management System
+This is a Laravel-based Hospital Management System designed to provide users with seamless access to various healthcare services. Users can log in to their accounts to explore a range of services, such as doctor consultations and appointment bookings through the reservation system.
+
+Key Features:
+User Login: Secure login functionality for users to access their accounts.
+Service Listings: View available services, including doctor consultations and appointment booking.
+Reservation System: Users can easily book appointments with doctors.
+User Profile: Users can view the details of their latest consultations and their current status.
+Password Update: Users have the option to update their profile passwords.
+Profile Deletion: Users can delete their profiles if necessary.
+This project is built using Laravel and includes features such as role-based authentication, user management, and service handling for a complete hospital management experience.
+>>>>>>> 444a9539664df25c9ffb4f6c595078b27e20ce3b
