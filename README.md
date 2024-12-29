@@ -1,14 +1,35 @@
-# Hospital Management System
+Laravel-Based Hospital Management System
 
-A Laravel-based web application for managing hospital services. This system allows users to log in, view services like doctor consultations, book appointments, and manage their profiles. Users can also view their latest consultations and update their passwords or delete their profiles.
+This is a Laravel-based web application for a Hospital Management System (HMS). The system allows users to log in, register, and access various services such as doctor consultations and a reservation system for booking appointments. Users can view their latest consultations and their status on their profile page, update their passwords, and delete their profiles if needed.
 
-## Features
+Features
 
-- **User Authentication**: Secure login/logout for users with role-based access.
-- **Service Listings**: View available hospital services like doctor consultations.
-- **Reservation System**: Users can book appointments with doctors.
-- **Profile Management**: View latest consultations, update passwords, and delete profiles.
-- **Admin Control**: Admins can manage users, services, and appointments.
+User Authentication: Login and registration functionality for users.
+
+Services: Access listed services like doctor consultations and reservation systems.
+
+Profile Management: Users can view consultation history, update their password, and delete their profile.
+
+Three-Tier Architecture: The system is designed with a three-tier architecture for scalability and maintainability.
+
+MySQL Database: Used to store and manage data efficiently.
+
+API Requests: Supports GET, POST, PUT, and DELETE requests.
+
+Protected Routes: Ensures secure access to specific resources and services.
+
+Usage
+
+Access the application at http://127.0.0.1:8000.
+
+Register or log in to the system.
+
+Explore services, book appointments, and manage your profile.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
